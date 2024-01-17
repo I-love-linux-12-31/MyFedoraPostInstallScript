@@ -1,2 +1,3 @@
 #!/bin/bash
 dnf install -y openssh-server openssh mc htop python3 lm_sensors lm_sensors-libs java-latest-openjdk java-17-openjdk java-17-openjdk-headless java-17-openjdk-devel java-11-openjdk java-1.8.0-openjdk java-1.8.0-openjdk-openjfx java-1.8.0-openjdk-openjfx-devel
+dnf install flatpack -y

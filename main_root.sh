@@ -15,7 +15,6 @@ bash ./graphical_libs.sh
 
 bash ./styles.sh
 bash ./useful_software.sh
-bash ./flatpack_software.sh
 
 echo -e "fastestmirror=True\nmax_parallel_downloads=10" >> /etc/dnf/dnf.conf
 
