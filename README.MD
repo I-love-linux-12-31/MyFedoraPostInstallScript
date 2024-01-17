@@ -6,3 +6,9 @@ Works on Fedora Linux 38, 39
 * bash
 * Unlimited internet connection.
 * dnf package manager
+#### How to run
+> $ bash ./main.sh
+#### License
+GPLv3
+#### Author
+Yaroslav Kuznetsov
