@@ -10,6 +10,7 @@ bash ./compilers_and_build_utils.sh
 bash ./cpp_libs.sh
 bash ./python_libs.sh
 
+bash ./codecs.sh
 bash ./graphical_libs.sh
 
 bash ./styles.sh
