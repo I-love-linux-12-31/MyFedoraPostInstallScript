@@ -11,10 +11,13 @@ bash ./cpp_libs.sh
 bash ./python_libs.sh
 
 bash ./codecs.sh
-bash ./graphical_libs.sh
+bash ./graphics_libs.sh
 
 bash ./styles.sh
 bash ./useful_software.sh
 
 echo -e "fastestmirror=True\nmax_parallel_downloads=10" >> /etc/dnf/dnf.conf
+
+dnf update -y
+
 
